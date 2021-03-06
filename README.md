@@ -1,4 +1,4 @@
-#  AI Programming with Python
+#  AI Programming with Python Nanodegree
 
 This contains introduction to python, scripting and libraries such as pandas, numpy and matplotlib. The course briefs about the working of neural networks and their implementation using pytorch. 
 
@@ -15,3 +15,5 @@ It has following projects and these are my solutions, (please refer to udacity's
 - [Udacity](https://www.udacity.com/courses/ai-programming-python-nanodegree--nd089)
 - [Udacity repository](https://github.com/udacity)
 
+### Author: 
+- [Pratik Kumar](https://pr2tik1.github.io)
